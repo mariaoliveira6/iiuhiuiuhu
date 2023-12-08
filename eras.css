@@ -1,0 +1,27 @@
+body {
+
+}
+
+#album {
+    width: 100%;
+}
+
+titulo-princípal {
+     padding-left: 20px;
+}
+
+.titulo-centralizado{
+	  text-align: center
+}
+
+#eras {
+   width: 20%;
+}
+
+.d-flex {
+  display: flex;
+}
+
+img,p {
+  padding: 10px
+}
